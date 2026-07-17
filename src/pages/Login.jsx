@@ -101,17 +101,6 @@ export default function Login() {
           </button>
         </form>
 
-        <div className="demo-hint">
-          <span className="eyebrow">Akun demo</span>
-          <ul>
-            {demoUsers.map((u) => (
-              <li key={u.username}>
-                <code>{u.username}</code> / <code>{u.password}</code>
-              </li>
-            ))}
-          </ul>
-        </div>
-
         <Link to="/" className="back-link">← Kembali tanpa masuk</Link>
       </div>
     </div>
