@@ -78,14 +78,3 @@ npm run preview
 ## Link Live Demo
 
 _(isi setelah deploy, contoh: https://rick-morty-explorer.vercel.app)_
-
-## Catatan Implementasi Materi Pertemuan 2–15
-
-- Komponen fungsional & JSX modular
-- Props & event handling antar komponen (`CharacterCard`, aksi favorit)
-- Lifecycle dengan `useEffect` (fetch data, debounce, sinkronisasi localStorage)
-- Conditional rendering & rendering list (`.map`)
-- React Router (nested navigation, dynamic route `:id`, protected route)
-- Context API untuk state global (auth & favorites)
-- Form terkontrol (controlled input) dengan validasi
-- Penanganan loading/error/empty state
