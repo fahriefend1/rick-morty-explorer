@@ -77,4 +77,4 @@ npm run preview
 
 ## Link Live Demo
 
-_(isi setelah deploy, contoh: https://rick-morty-explorer.vercel.app)_
+https://rick-morty-explorer-five.vercel.app/
